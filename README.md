@@ -18,3 +18,8 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Comes with prettier pre-configured
 
 Eslint has already been configured with eslint-config-prettier to let prettier handle the code formatting you can add or modify your prettier rules in './prettierc'
+
+### Getting started
+
+After cloning the repository run `./setUpProjectName.sh <your-project-name>` .
+This will automatically replace the name of the current project `react-template` to whatever project name you provide
