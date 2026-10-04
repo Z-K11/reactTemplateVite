@@ -19,6 +19,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Eslint has already been configured with eslint-config-prettier to let prettier handle the code formatting you can add or modify your prettier rules in './prettierc'
 
+## Vitest
+
+Added vitest, react-testing-Library and userEvent from testing library for writing react tests.
+Used jest-dom to simulate dom tree during testing.
+
 ### Getting started
 
 After cloning the repository run `npm install` & then run:
